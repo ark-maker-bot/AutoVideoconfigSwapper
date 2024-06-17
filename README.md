@@ -3,3 +3,5 @@ Here is the original and credits to the ChangeScreenResolution.exe: https://tool
 but this is just because I am too lazy to manually do it. 
 
 The video demostrating the usage of it: https://youtu.be/lW7Y_dQYz2o
+
+Also Node.js installation is here: https://nodejs.org/en/download/package-manager
